@@ -1,5 +1,6 @@
-### Hi there 👋
+👋Hi, I’m @joyqvq, I’m interested in building softwares and learning about blockchain and cryptocurrency. I am working at Mysten Labs on Web3 infrastructure. 
 
+How to reach me: joy@mystenlabs.com
 <!--
 **joyqvq/joyqvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
