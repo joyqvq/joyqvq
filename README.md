@@ -1,4 +1,4 @@
-👋Hi, I’m @joyqvq, I’m interested in building softwares and learning about blockchain and cryptocurrency. I am working at Mysten Labs on Web3 infrastructure. 
+👋Hi, I’m @joyqvq, I’m a software engineer at Mysten Labs.
 
 How to reach me: joy@mystenlabs.com
 <!--
